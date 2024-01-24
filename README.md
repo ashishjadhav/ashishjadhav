@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish S. Jadhav</h1>
+<h1 align="center">Hello there  👋, I'm Ashish </h1>
 <h3 align="center">A AI enthusiast studying in Germany.</h3>
 
 - 🔭 I’m currently working on **Alzeihmer's dementia classifcation using spontaneous speech.**
