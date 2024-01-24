@@ -1,7 +1,7 @@
 <h1 align="center">Hello there  👋, I'm Ashish </h1>
 <h3 align="center">An AI enthusiast studying in Germany.</h3>
 
-- 🔭 I’m currently working on **Alzeihmer's dementia classifcation using spontaneous speech.**
+- 🔭 I’m currently working on **[Alzeihmer's dementia classifcation using spontaneous speech](https://github.com/ashishjadhav/AD_classification).**
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow**
 
