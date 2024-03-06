@@ -1,5 +1,3 @@
-# Hello I am Ashish
-
 ## 🚀 About Me
 - 📖 I'm an AI enthusiast studying in Germany.
 
